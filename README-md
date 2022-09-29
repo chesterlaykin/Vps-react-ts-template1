@@ -1,0 +1,47 @@
+Vps-react-ts-template1
+
+- [Current status](#current-status)
+- [Comments (continuous)](#comments-continuous)
+      - [sep 2022](#sep-2022)
+- [Vscode settings](#vscode-settings)
+- [Installed dependencies + configurations](#installed-dependencies--configurations)
+  - [**Vite-plugin-ssr**](#vite-plugin-ssr)
+  - [**Typescript**](#typescript)
+    - [Vscode recommended settings](#vscode-recommended-settings)
+  - [**SASS**](#sass)
+    - [**Sass**](#sass-1)
+
+# Current status
+
+Working
+
+# Comments (continuous)
+
+#### sep 2022
+
+Web files moved to `src` folder.
+
+# Vscode settings
+
+# Installed dependencies + configurations
+
+## **Vite-plugin-ssr**
+
+Command used:
+`command`
+
+Version: 0.4.38
+
+CLI install options:
+
+- react-ts
+
+## **Typescript**
+
+### Vscode recommended settings
+
+## **SASS**
+
+### **Sass**
+
+Sass
