@@ -7,6 +7,7 @@ Vps-react-ts-template1
 - [Installed dependencies + configurations](#installed-dependencies--configurations)
   - [**Vite-plugin-ssr**](#vite-plugin-ssr)
     - [Compileroptions configurations](#compileroptions-configurations)
+      - [Path alias set in tsconfig + vite.config ( baseUrl + paths )](#path-alias-set-in-tsconfig--viteconfig--baseurl--paths-)
   - [**Typescript**](#typescript)
     - [Vscode recommended settings](#vscode-recommended-settings)
   - [**SASS**](#sass)
@@ -43,6 +44,10 @@ To not have to import React in every component:
 
 `"jsx": "react-jsx"`
 
+#### Path alias set in tsconfig + vite.config ( baseUrl + paths )
+
+alias "@" enabled by defining baseUrl + paths in tsconfig and resolve.alias in vite.config
+
 ## **Typescript**
 
 The chosen CLI option `react-ts` installs:
@@ -52,7 +57,7 @@ The chosen CLI option `react-ts` installs:
 - @types/node
 - @types/react
 - @types/react-dom
-
+  
 ### Vscode recommended settings
 
 ## **SASS**
